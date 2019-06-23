@@ -6,7 +6,7 @@ Requirements: Java 12, not tested with Java 8, check Java version with `Java -ve
 
 Clone project and `cd GymTracker_Backend`
 
-`mvn clean install` - This will delete the target folder and did a fresh build
+`mvn clean install` - This will delete the target folder and do a fresh install of dependencies & build
 
 `java -jar target/backend-0.0.1-SNAPSHOT.jar` to run project on localhost:8080
 
