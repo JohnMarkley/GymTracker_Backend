@@ -12,7 +12,7 @@ Clone project and `cd GymTracker_Backend`
 
 
 # API Calls
-Days = M,T,W,T,F
+Days = M,T,W,Th,F
 
 Status = Empty, Less Than Normal, Busy, Full (Can standardize these later)
 
