@@ -48,5 +48,7 @@ id = 8 {Wednesday, 12pm}
 
 # TO DO
 Will figure out best way to get info from raspberry pi. I'm thinking since we can't store the device anywhere we just take
-averages, put into a txt file and have java pull info from that when called by the front end. 
+averages, put into a txt file and have java pull info from that when called by the front end.
+
+Make it so you can request info by time & day & crowdedness
 
