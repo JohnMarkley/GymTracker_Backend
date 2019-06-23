@@ -52,3 +52,4 @@ averages, put into a txt file and have java pull info from that when called by t
 
 Make it so you can request info by time & day & crowdedness
 
+Write DockerFile to make it easy to move program into different enviornments 
